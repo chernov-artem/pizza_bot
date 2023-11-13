@@ -27,3 +27,4 @@ async def sql_delete_comand(data):
     print(f'нахуй {data,}!')
     base.commit()
 
+
